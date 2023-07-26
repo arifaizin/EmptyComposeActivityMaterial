@@ -12,5 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
 rootProject.name = "EmptyComposeActivity"
-include ':app'
+include(":app")
+ 
