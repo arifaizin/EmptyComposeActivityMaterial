@@ -1,4 +1,4 @@
-package com.dicoding.emptycomposeactivityelectriceel
+package com.dicoding.emptycomposeactivity
 
 import org.junit.Test
 

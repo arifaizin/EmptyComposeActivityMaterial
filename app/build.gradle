@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.dicoding.emptycomposeactivityelectriceel'
+    namespace 'com.dicoding.emptycomposeactivity'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.dicoding.emptycomposeactivityelectriceel"
+        applicationId "com.dicoding.emptycomposeactivity"
         minSdk 24
         targetSdk 33
         versionCode 1
